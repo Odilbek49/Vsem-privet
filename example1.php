@@ -6,3 +6,5 @@ var_dump($x); //result: float(10.365)
 
 $y = 42423;
 var_dump($y); //result:  int(42423)
+
+
