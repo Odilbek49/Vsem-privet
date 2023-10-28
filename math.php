@@ -18,8 +18,5 @@ echo rand(1, 2);
 
 echo "\n";
 define('MY_CONST', 'asdd');
-// define('GREAT', 'hello', true);
 
 echo MY_CONST;
-
-// echo great;
